@@ -7,6 +7,7 @@
 | 항목 | 내용 |
 |---|---|
 | 플랫폼 | Pleos Connect (Android Automotive OS, API 34) |
+| 시연 영상 | [YouTube (약 3분)](https://www.youtube.com/watch?v=bCqAlkwwJcM) |
 | APK | [`apk/sedoll_충전쉼표_release.apk`](apk/) |
 | 버전 | 0.1.0 (최소 API 28, 타깃 API 34) |
 | 사용 SDK | Pleos Vehicle · NaviHelper · FusedLocation · TextToSpeech |
@@ -97,6 +98,8 @@
 ---
 
 ## 3. 시연 방법
+
+> 시연 영상: https://www.youtube.com/watch?v=bCqAlkwwJcM — 아래 순서를 Pleos Connect 에뮬레이터에서 녹화했습니다.
 
 ### 3-1. Pleos Connect 에뮬레이터 준비
 1. Android Studio → **Tools > SDK Manager > SDK Update Sites** → `+`
